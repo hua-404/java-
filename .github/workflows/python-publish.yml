@@ -1,0 +1,2 @@
+name='gaojianhua'
+print(name)
