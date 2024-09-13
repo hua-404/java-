@@ -1,2 +1,4 @@
 name='gaojianhua'
+a=123
+print(a)
 print(name)
